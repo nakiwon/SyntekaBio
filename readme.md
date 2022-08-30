@@ -1,4 +1,5 @@
 # Test
+## 22/08/30
 
 1234
 
@@ -74,7 +75,7 @@ My mail <gwna@syntekabio.com "이메일">
 
   <u>underline - 밑줄</u>
 
-  <u>***~~ABCD~~***</u>
+  ***~~<u>ABCD</u>~~***
     <br>
     <hr>
 
