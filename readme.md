@@ -42,8 +42,14 @@
   <br>
   <hr>
   /* 참조 링크 사용 
-  [googleLink]: https://www.google.com "Go google"
 
+[Google](http://www.google.com "구글")
+ 
+[Naver](http://www.naver.com "네이버")
+ 
+[Github](http://www.github.com "깃허브")
+
+My mail <gwna@syntekabio.com "이메일">
 
   <br>
   <hr>
@@ -70,3 +76,21 @@
     <br>
     <hr>
 
+[ ![텍스트](이미지URL) ]( 링크URL )
+ 
+[![텍스트](https://t1.daumcdn.net/cfile/tistory/2444873B57E257821F)](https://unity3d.com/kr)
+  <br>
+  <hr>
+
+헤더와 셀을 구분할 때 3개 이상의 -(hyphen/dash) 기호가 필요합니다.<br>
+헤더 셀을 구분하면서 :(Colons) 기호로 셀(열/칸) 안에 내용을 정렬할 수 있습니다.<br>
+가장 좌측과 가장 우측에 있는 |(vertical bar) 기호는 생략 가능합니다.
+
+헤더1|헤더2|헤더3|헤더4
+---|---|---|---
+셀1|셀2|셀3|셀4
+셀5|셀6|셀7|셀8
+셀9|셀10|셀11|셀12
+
+ <br>
+ <hr>
