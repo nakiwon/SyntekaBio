@@ -41,25 +41,9 @@
 
   <br>
   <hr>
-
- /* 일반적인 링크 사용 
-  [Title](link)
-  */
-  [Google](https://www.google.com, "Go Google")
-  [Email](PSJ@gmail.com, "Send Message")
-
-  /* 자동 링크 사용 
-  <link Address>
-  */
-  <https://www.google.com>
-  <PSJ@gmail.com>
-
   /* 참조 링크 사용 
-  [link keyword][id]
-  [id]: URL "Optional Title here"
-  */
-  Link: [Google][googleLink]
   [googleLink]: https://www.google.com "Go google"
+
 
   <br>
   <hr>
